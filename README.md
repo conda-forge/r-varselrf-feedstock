@@ -3,7 +3,7 @@ About r-varselrf
 
 Home: http://ligarto.org/rdiaz/Software/Software.html, http://ligarto.org/rdiaz/Papers/rfVS/randomForestVarSel.html, https://github.com/rdiaz02/varSelRF
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varselrf-feedstock/blob/master/LICENSE.txt)
 
