@@ -1,11 +1,11 @@
-About r-varselrf
-================
+About r-varselrf-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varselrf-feedstock/blob/main/LICENSE.txt)
 
 Home: http://ligarto.org/rdiaz/Software/Software.html, http://ligarto.org/rdiaz/Papers/rfVS/randomForestVarSel.html, https://github.com/rdiaz02/varSelRF
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-varselrf-feedstock/blob/main/LICENSE.txt)
 
 Summary: Variable selection from random forests using both backwards variable elimination (for the selection of small sets of non-redundant variables) and selection based on the importance spectrum (somewhat similar to scree plots; for the selection of large, potentially highly-correlated variables). Main applications in high-dimensional data (e.g., microarray data, and other genomics and proteomics applications). 
 
